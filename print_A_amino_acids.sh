@@ -1,1 +1,1 @@
-grep -o "^A\w*\b" amino-acids.txt
+grep -o "^A\w*\b" amino-acids.txt | wc -l
